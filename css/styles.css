@@ -1,5 +1,5 @@
 .btn {
-  display: block;
+  display: block
 }
 
 #Jamaica {
@@ -11,5 +11,9 @@
 }
 
 #Oregon {
+  display: none;
+}
+
+#NoVacation {
   display: none;
 }

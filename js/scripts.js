@@ -10,6 +10,8 @@ $(document).ready(function() {
       $("#Jamaica").show();
     } else if (beaches === "Yes" && sunshine === "Yes" && seafood === "Yes" && spanish === "Yes" && money === "No") {
         $("#Peru").show();
+    } else if (beaches === "Yes" && sunshine === "Yes" && seafood === "Yes" && spanish === "Yes" && money === "Yes") {
+          $("#Barcelona").show();
     } else if (beaches === "No" && sunshine === "No" && seafood === "Yes" && spanish === "No" && money === "No") {
         $("#Oregon").show();
     } else {

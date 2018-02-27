@@ -2,18 +2,12 @@
   display: block
 }
 
-#Jamaica {
+#Jamaica, #Peru, #Oregon, #Barcelona, #NoVacation {
   display: none;
 }
 
-#Peru {
-  display: none;
-}
-
-#Oregon {
-  display: none;
-}
-
-#NoVacation {
-  display: none;
+h1 {
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: .5em;
 }

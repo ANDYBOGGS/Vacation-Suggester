@@ -2,8 +2,15 @@
   display: block
 }
 
+
+
 #Jamaica, #Peru, #Oregon, #Barcelona, #NoVacation {
   display: none;
+
+}
+
+body {
+  background-image: url("https://images.freeimages.com/images/large-previews/047/headed-down-1400175.jpg");
 }
 
 h1 {

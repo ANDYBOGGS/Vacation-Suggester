@@ -2,7 +2,7 @@
 
 #### Javascript/JQuery website exercise, 2018
 
-https://andyboggs.github.io/portfolio-page/
+https://andyboggs.github.io/vacation-suggester/
 
 #### By Andrew Jacob Boggs
 
